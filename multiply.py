@@ -1,0 +1,1 @@
+print("this code ois for multiplication purpose ")
